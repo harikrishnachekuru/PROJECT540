@@ -1,0 +1,318 @@
+.App {
+  text-align: left;
+  
+  }
+.round{
+  border-radius:100px;
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.rohith{
+  background-color: #0b8793;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.aa{
+  
+  color:white;
+  background: #654ea3;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: "Goergia";
+  
+    
+  }
+  .ab{
+    color:#122222;
+    font-family: "Goergia";
+  }
+  
+  
+  .my
+  {
+    width:40px;
+    height:40px;
+    font-family: "Goergia";
+  }
+  .section1{
+    background: #360033;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #0b8793, #360033);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #0b8793, #360033); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: "Goergia";
+  width:111%;
+  
+  }
+  .navbar{
+    width:100%;
+    height: 50px; 
+    
+    
+  }
+  .post_button{
+    background-color:#347fd6; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:10px;
+  }
+  .popup{
+    background-color:#347fd6; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:10px;
+  }
+  .addimg{
+    background-color:#347fd6; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:10px; 
+    width:25px;
+    align-content: center;
+    
+  }
+  .align{
+    text-align: center;
+    color: #ffffff;
+    font-family: "Georgia";
+  }
+  .Imag
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+  height: 100px;
+    
+    width: 20%;}
+    .Imag1{height:300px;
+      
+      width: 90%;
+    }
+    .Imag2{
+      height: 250px;
+      width:300px;
+    }
+    .align2
+    {
+      color: #ffffff;
+      font-family: "Goergia";
+    }
+    .align3
+    {
+      color:black;
+      font-family: "Goergia";
+    }
+   
+
+
+
+
+
+
+    .nav1{
+      background: #9D50BB;  /* fallback for old browsers */
+      font-family: "Goergia";
+      position: fixed;
+      top: 0;
+      width: 100%;
+    padding: 1px;
+  }
+  .r1{
+    width:100%;
+  }
+  .section2{
+    width:111%;
+    background: #4B79A1;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #283E51, #4B79A1);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #283E51, #4B79A1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: "Goergia";
+  }
+  .section3{
+    width:111%;
+    background: #2c3e50;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3498db, #2c3e50);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3498db, #2c3e50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: "Goergia";
+  }.section4{
+    width:111%;
+    background: #525252;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3d72b4, #525252);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3d72b4, #525252); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: "Goergia";
+  }
+  .needs{color:#697586;
+    text-align: center;
+    font-family: "Goergia";
+    font-size: 50px;
+  }
+  .wid{
+    width: 90%;
+    font-family: "Goergia";
+  }
+  
+  .footer{
+    width: 111%;
+   
+    
+  }
+
+
+  
+html {
+  box-sizing: border-box;
+  }
+  
+  *, *::before, *::after {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+  
+  }
+  
+  .searchbar{
+  border-radius: 20px;
+  padding: 0 20px;
+  position:relative; 
+  top:30%;
+  }
+  .app {
+  width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  }
+  
+  
+    .logo { background: url("/path") no-repeat; width:50 px; height: 50px; display: block; text-indent: -9999px;}
+
+  
+  nav ul {
+  list-style: none;
+  display: flex;
+  background-color: #347fd6;
+  margin-bottom: 20px;
+  padding-top: 15px;
+  }
+  .menu{
+  float: right;
+  }
+  nav ul li {
+  padding: 1px;
+  }
+  
+  nav ul li a {
+  color: white;
+  text-decoration: none;
+  }
+  
+  .current {
+  border-bottom: 4px solid white;
+  }
+  
+  h1 {
+  margin-bottom: 20px;
+  }
+  
+  p {
+  margin-bottom: 15px;
+  }
+  @media screen and (max-width:800px) {
+  .searchbar, .current , .menu, nav {
+  width:100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+}
+.aa{
+  
+  background-color:#ffffff;
+}
+.ab{
+  color:#122222;
+}
+.aa{
+  background-color:#9400d3;
+}
+.my
+{
+  width:30px;
+  height:30px
+}
+.pr{
+  width:10px;
+  height:10px;
+}
+
+.slide
+{
+  color: #ffffff;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.Im{
+  height: 200px;
+  width: 300px;
+}
+.co{
+  background: #141E30;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.description{
+  font-family: 'verdana' ,sans-serif;
+}
+
+  .over
+        {
+            position:absolute;
+            left:40px;
+            top:10px;
+            z-index:-1;
+}
+.Imod{
+  height: 100px;
+  width:100px;
+}
+
+.center{
+  text-align: center;
+}
